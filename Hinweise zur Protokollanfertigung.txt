@@ -1,0 +1,8 @@
+Protokoll:
+1.	Zweck
+2.	Verwendete Geräte
+3.	Schaltplan
+4.	Evtl. Vorberechnungen
+5.	Messwerte (mit Unsicherheiten)
+6.	Nachvollziehbare Berechnungen
+7.	Bewertung
