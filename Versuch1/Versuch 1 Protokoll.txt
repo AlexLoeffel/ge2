@@ -1,0 +1,131 @@
+Versuch 1
+Spannungs- und Strommessung, Spannungsteiler, Stromteiler und Ersatzspannungsquelle
+	26.10.15	
+
+Gruppe 2
+Tisch 2 
+Teilnehmer: Alexander Mendel, Christoph Haeberle, Karl-Fabian Witte
+
+
+1. Spannungsmessung
+1.1 Ausmessen einer unbekannten Spannungsquelle
+1.1.1 Leerlaufspannung/Klemmenspannung
+Gemessen wird die Klemmspannung an einer unbekannten Spannungsquelle. 
+Geräte: Tenma, Metra Hit 15s, Metra Hit 18s
+FRAGE: Ist die Klemmspannung gleich der Leerlaufspannung?
+Schaltplan:
+
+
+
+
+
+
+Messwerte:
+
+
+
+
+
+Bewertung: 
+
+
+1.1.2 Innenwiderstand
+In diesem Versuch stellen wir den Innenwiderstand der unbekannten Spannungsquelle mit Hilfe der „Halbausschlag-Methode“ fest. Dafür wird zuerst die Leerlaufspannung gemessen und dann die Widerstandsdekade als Last angeschlossen. 
+Die Widerstandsdekade wird dann möglichst genau ein, so dass die gemessene Spannung halb so groß ist, wie die gemessene Leerlaufspannung.
+Geräte: unbekannte Spannungsquelle, Metra Hit 18s, Widerstandsdekade
+Frage: Muss hierbei der Innenwiderstand des 
+Schaltplan:
+
+
+
+
+
+
+Messwerte (mit Unsicherheiten):
+
+
+
+
+
+Bewertung:
+
+
+1.2 Messung am Spannungsteiler
+An einer Reihenschaltung von Widerständen wird die Spannung gemessen. Wir legen eine Spannung von 8,0V an und vergleichen die berechneten mit den gemessenen Werten. 
+Geräte: Metra Hit 18s, Universalspannungsquelle Rohde&Schwarz Hameg HM7042-5, Spannungsteiler X3
+Frage: Wodurch werden die Abweichungen verursacht? Überprüfen Sie ihre Theorie.
+Schaltplan(aus PDF):
+
+
+
+
+
+Messwerte/Berechnungen/Vorberechnungen(aus PDF):
+
+
+
+
+Bewertung:
+
+
+
+
+
+
+
+2. Strommessung
+2.1 Strommessung an einem Verbraucher
+An der Widerstandsdekade stellen wir 80.0 Ohm ein und an der Universalspannungsquelle 4,0 V. Gemessen wird der Belastungsstrom mit allen drei Multimetern mit der jeweiligen genauen Anzahl der signifikanten Ziffern und den Unsicherheiten. Gleichzeitig wird der Spannungsabfall über dem Strom-Multimeter gemessen, wobei auch auf die Unsicherheiten geachtet werden muss.
+Geräte: Widerstandsdekade, Universalspannungsquelle Rohde&Schwarz Hameg HM7042-5, Tenma, Metra Hit 15s, Metra Hit 18s
+ERKLÄREN SIE DIE ABWEICHUNGEN ZWISCHEN MESSUNG UND BERECHNUNG.
+Schaltplan:
+
+
+
+
+Messwerte(mit Unsicherheiten):
+
+
+
+
+Bewertung:
+
+
+2.2 Messung an einem Stromteiler
+An einer Parallelschaltung von Widerständen messen wir den Strom. Hier vergleichen wir wider die gemessenen mit den berechneten Werten.
+Geräte: Metra Hit 18s, Stromteiler X4, Universalspannungsquelle Rohde&Schwarz Hameg HM7042-5
+Frage: Versuchen sie die Abweichung zwischen Berechnung und Messung zu erklären?
+Schaltplan:
+
+
+
+
+Messwerte(mit Unsicherheiten)/Vorberechnungen:
+
+
+
+
+Bewertung:
+
+
+3. Ersatzspannungsquelle eines lin. Netzwerk (U, R)
+3.1 Bestimmung der Ersatzspannungsquellen-Parameter
+Wir messen Strom und Spannung an einer Doppelspannungsquelle.
+a) Spannungsquelle 1 und 2 werden mit zwei Drahtbrücken verbunden. Gemessen wird U0 und Ri (Halbausschlagmethode)
+b) Spannungsquelle 1 und 2 werden durch eine Drahtbrücke ersetzt. Von U1 auf U2 auf Klemme B. Gemessen wird jetzt der direkte Innenwiderstand an der Schaltung.
+*hier evtl. noch ein bisschen was am Text machen*
+Geräte: Doppelspannungsquelle X5, Metra Hit 18s
+Schaltplan:
+
+
+
+
+Messwerte/Vorberechnungen(Blatt und Kalle):
+
+
+
+Bewertung:
+
+
+3.2 Vergleich eines lin. Netzwerks mit seiner Ersatzspannungsquelle
+Mit der Widerstandsdekade und der Universalspannungsquelle bauen wir das Netzwerk nach….
